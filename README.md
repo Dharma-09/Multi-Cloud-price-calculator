@@ -1,1 +1,1 @@
-# multi-cloud-price-calculator
+# Multi Cloud price calculator
