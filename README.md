@@ -5,3 +5,8 @@
 - The idea is to have all cloud provider pricing costs on one single page.
 
 - Forndend deployment on netlify and backend deployment on ec2 which is built in `Python` using `boto3` Amazon pricing API.  
+
+Tech used
+AWS EBS
+AWS S3
+AWS Lambda
