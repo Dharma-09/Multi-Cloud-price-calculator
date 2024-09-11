@@ -10,3 +10,4 @@ Tech used
 AWS EBS
 AWS S3
 AWS Lambda
+AWS SNS
