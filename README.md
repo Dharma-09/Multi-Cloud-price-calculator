@@ -12,3 +12,4 @@ AWS S3
 AWS Lambda
 AWS SNS
 AWS Organization
+CloudWatch
