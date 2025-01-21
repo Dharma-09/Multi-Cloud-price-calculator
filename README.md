@@ -13,3 +13,5 @@ AWS Lambda
 AWS SNS
 AWS Organization
 CloudWatch
+Azure 
+Blob storage
